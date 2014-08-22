@@ -123,4 +123,86 @@ Inner-tube patching is a very old, well established technology, and is quite rel
 If you follow this procedure, and use good materials, your patched tube should be basically as good as new.
 Patch failure generally results from one of two errors:
 + Not buffing the tube sufficiently, or:
-+ 
++ Applying the patch before the cement has dried fully.
+
+# 4. Reinstalling the Tire
+Although you usually need tire levers or a similar tool to remove a tire from the rim, usually you should be able to re-install the tire with your bare hands.
+If you try to pry the tire on using tools, you are very likely to wind up pinching the inner tube between the tool and the rim, puncturing it.
+
+It is usually helpful to have a little bit of air in the tube: just enough to make it sort of round rather than flat. With presta-valve tubes, I usually just blow air into the tube by mouth.
+
+It sometimes helps to stretch a brand-new tube first. I do this by stepping into it and lifting away by hand.
+
+Start by fitting the valve of the inner tube through the valve hole. You may need to lift a rubber rim strip up at the valve hole and slip it all the way onto the valve stem so the valve stem doesn't try to drag it into the valve hole. Loosely secure the valve using a valve cap or retaining ring so it won't fall back through the hole. If your valve is threaded for a retaining ring, don't tighten it down very far yet, just thread it on far enough that the valve can't fall out of the rim.
+
+With the tube dangling down along one side of the wheel, install one edge of the tire onto the rim, so that the tube is hanging out of the open side. This is usually pretty easy.
+
+Next, tuck the tube into the tire. It is best to start at the valve, work your way one third of the way around the tire, then go back to the valve and work around in the opposite direction.
+
+Once the tube is in place, you're ready to install the second edge of the tire. This is the hardest part of the whole process, and the hardest part of this is the very last segment.
+
+If you start at the valve, it won't be a complicating factor when you are trying to lift the last bit of tire bead over the edge of the rim. With a very narrow rim, you may have to start opposite the valve -- just don't finish right at the valve.
+
+As you install the second edge of the tire, try to push it toward the middle of the rim channel, where the channel is deepest. This will give you more slack.
+
+Make sure that the tire bead is not sitting on top of the base of the valve. If it is, push the valve almost back through the rim to raise the reinforced patch at the base of the valve, and push the tire down around it.
+
+For the last few inches of tire bead, some considerable force may be needed to pop it over the edge of the rim. (Some rim/tire combinations are easier than others.) If it is giving you difficulty, resist the urge to press the middle part over. Instead, work alternately from each end of the section you're trying to lift over. Going back and forth from side to side will usually get it.
+
+Most folks do this by holding the wheel horizontally, with the open side up. Wrap your fingers around over the tire to press on the bottom of the rim, while you push the tire either with your thumbs or with the heels of your hands.
+
+If you just can't get it by hand, here are some things to check:
++ Make sure the tire bead isn't sitting on top of the tube or rim strip anywhere.
++ Make sure the tire bead you're working on is pushed as close to the middle of the rim channel as you can get it.
++ The thinner the rim tape, the easier it is to mount the tire. Consider replacing the rim tape.
+
+# 5. Inflating the Tire
+Once the tire is fully installed on the rim, you can inflate it, but it may not be as round as it should be. If it isn't, it is usually because the tire needs to be "seated" so that it sits at the same depth in the rim all the way around.
+You are less likely to have a problem seating your tire if you have the wheel off of the ground before you start. If the tire is completely flat and is sitting on the ground with the weight of the bike on it, the part that is at the bottom is likely to seat incorrectly.
+
+Generally, if your bike has quick-release brakes, it's best to inflate the tire before putting the wheel back on the bike. If you don't have quick-release brakes, though, it's easier to install the wheel before pumping up the tire.
+
+It's best to start by inflating the tire just enough that it takes shape, maybe 20-30 PSI, and to check that it is seated properly before full inflation. Check the seating by spinning the wheel and watching the tire.
+
+Once you're sure the tire is properly seated, inflate it to full pressure.
+
+# 6. Seating the Tire
+If the tire is not seated properly, usually this will take the form of having most of the circumference of the tire in the correct place, but there will be one place where the tire either bulges out too far, or dips inward toward the rim. Note, it could be OK on one side of the tire but not the other.
+Most tires have a "witness line" molded into each sidewall. This is a narrow ridge of rubber running around the side of the tire, just outside of the rim. Spinning the wheel and observing the witness line will help you locate the place where the seating might be off.
+
+**Seating A Bulging Tire**
+If one part of the tire bulges out farther than the rest, deflate it right away or it may explode with a loud BANG! Manually re-arrange the tire to get it centered on the rim before re-inflating it. Make sure the tire bead isn't sitting on top of part of the inner tube, or the rim strip. This can happen if the rim strip is too wide, or is installed off-center.
+If the bulge is right at the valve, this usually indicates that the tire is sitting on the reinforcing patch at the base of the valve. Completely deflate the tire, and push the valve up into the tire with your thumb, while pressing the tire down around it, then pull the valve back down before inflating.
+
+**Seating a Tire that Dips Inward**
+If your tire dips inward at one spot, without bulging out at another, it is usually a sign of an unusually tight fit. This may make it a bit of a struggle to install the tire, but it also means that you can get away with considerable overinflation with no risk of blowing the tire off the rim. Indeed, the best way to seat a "dipping" tire is by temporarily overinflating it until it "pops" into position.
+In some cases it may be beneficial to lubricate the side of the tire. This can be done with soapy water, but I usually use spray window cleaner for this, because it doesn't leave a soapy residue on the braking surface of the rim.
+
+A tight fit will hold the tire in place if it blows out during a ride. A loose tire will flop around, making the bicycle impossible to balance.
+
+# 7. Re-installing the Wheel
+Re-installing the wheel is a critical task, and if you don't do it right, the wheel can fall out, leading to a serious crash. This is particularly important on the front wheel. If it falls out you will probably land on your face!
+
+## Quick Release Wheels
+Hundreds of people suffer gruesome injuries every year as a result of improper use of front-wheel quick releases, but if you understand their operation, they're quite safe and secure.
+
+Twist or Flip?
+The quick release handle can move two ways: it can twist around like a wingnut, or it can flip 180 degrees outward and back, like a hinge.
+
+The twisting motion adjusts the operating range of the quick release. You may have to hold onto the cone-shaped nut at the other end of the axle. You can't get the quick release tight enough by turning it.
+
+The hinge-like flipping motion is the locking motion. In the "open" position, the quick release handle curves away from the bike. In the "locked" position, it curves toward the bike. (Very old levers are not curved, though -- but the tight position then is with the lever pointing clockwise at its base.) Never, ever ride with the lever in the open position, or partway closed!
+
+If the quick release is too loose, the flipping motion will be easy, but it will not hold the wheel safely--flip it back, turn the adjusting nut clockwise some more, then try again.
+
+If the handle is too hard to flip, and you cannot get it to flip far enough to lie flat, loosen the adjustment by turning the adjusting nut counterclockwise. There is a range of only a small fraction of a turn where the adjustment is correct, so you will probably have to repeat the adjustment.
+
+It should take a good firm push to get the handle to lie flat. You will feel the resistance of the lever decrease for the last little bit before the lever lies flat; then it will come up hard against a stop. The decrease in resistance happens as the cam goes over center -- it actually loosens slightly as it reaches its closed position. Then vibration tends to tighten it rather than loosen it.
+
+It is a good idea to set the quick release so that the handle points toward the rear when it is closed. This reduces the chance of getting it snagged on something. Flip the handle to the loose position, turn the handle and the cone-shaped nut together to align the handle once it has been adjusted -- then retighten.
+
+It is customary for the quick release handle to be on the bicycle's left side, keeping the rear handle out of the way of the derailer.
+
+## Nutted or "Bolt-On" Wheels
+
+## Check the Brakes
