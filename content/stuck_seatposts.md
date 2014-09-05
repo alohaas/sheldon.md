@@ -54,4 +54,12 @@ It is easiest to work with a fully assembled bike, sitting on the floor on its o
     
 7. For steel seatposts stuck into steel frames, where the problem is often caused by rust, penetrating oil can do wonders. If you don't have real penetrating oil, any light lubricating oil is better than nothing, but penetrating oil is made specifically for this purpose, and you should buy a can if you don't already have one.
 
+8. Aluminum seatposts frequently become stuck by corrosion also, and penetrating oil is almost useless against aluminum oxide. Fortunately, aluminum oxide can be dissolved like magic by using ammonia.
+
+9. If nothing else works to free up a steel or titanium seatpost, the next-to-last resort is to heat the seat tube up with a hair dryer or propane torch. This should be done with great care so as not to do too much damage to the paint. You should work as fast as you safely can, because you want to heat the seat tube so that it will expand, but if possible you should quickly put the torch down and start pulling on the saddle before the heat works its way through the seat tube and makes the seatpost expand too.
+
+10. The torch technique is worse than useless when you are dealing with an aluminum seatpost stuck in a steel or titanium frame, because aluminum expands twice as much as steel, and 2 1/2 times as much as titanium for the same increase in temperature. In fact, the exact opposite technique will often do the trick for aluminum seatposts -- cool the seatpost down as rapidly as possible. The contents of a CO2 tire inflation cartridge applied inside the seatpost can shrink it down just enough to do the trick.
+                                    
+11. If nothing else works, the final resort is the old hacksaw blade trick. Cut the seatpost off so that about 1/2" is left sticking out, then insert a hacksaw blade into the seatpost and carefully cut a slit in the post. This is very laborious, and you run the risk of damaging the frame if you cut too far, but this approach cannot fail. Once you have cut the slit, grab one edge of the cut with a locking plier and roll the seatpost up inside itself and pull it out.
+
 
