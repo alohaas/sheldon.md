@@ -54,3 +54,14 @@ Special tool for rapid cone adjustment under load
 ---
 I have made a special tool for cone adjustment on QR hubs, consisting of a skewer and a spacer bushing to allow the handle end of the skewer to press against the end of the axle, leaving the locknuts unobstructed. This is very handy, and saves a good deal of time in the shop. Since it presses directly on the ends of the axle, you can make the actual adjustments while the axle is under compressive load from the quick release. This has not previously been possible.
 ![cone tool](https://github.com/livhaas/sheldon.md/blob/master/content/img/cone_tool.gif)
+
+The spacer bushing consists of an old, worn-out cone, with a short length of axle screwed into it, so it fits reasonably snugly onto the skewer. The quick-release body presses on this old cone; the stub of axle (which you can't see, because it is entirely inside the old cone) presses on the end of the axle. This tool is also useful for truing wheels if you use a truing stand, such as the Park, that doesn't compress the axle. This tool can remove the play from the bearings, and still allow you to install the wheel into the truing stand.
+
+Solid-Axle Hubs
+---
+Many low-end bikes come with solid-axle (non-quick-release) rear hubs. The quick procedure for these is to adjust them in the bike. I start by making sure that the right axle nut is really tight, then loosen the left axle nut and go in with my 15 & 17.
+The quick check for rear bearings is to slowly backpedal with the bike off the ground. Depending on the degree of freeness of the freewheel, a properly adjusted wheel will either "pendulum" as a front wheel does, or, if the freewheel is a bit gooey, the wheel will turn backwards. If the wheel just sits there, the bearings are too tight (or the brake is rubbing!)
+
+It Matters!
+---
+Poor cone adjustment is not usually obvious to a customer, but it is really quite important. If a hub is too tight, the bearing surfaces will self destruct prematurely, and the bike will not roll as freely as it should.
