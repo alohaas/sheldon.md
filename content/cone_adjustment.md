@@ -1,6 +1,8 @@
 Cone Adjustment
 ===
-![axel set](https://github.com/livhaas/sheldon.md/blob/master/content/img/bearing_types400-270.gif)
+![bearing types](https://github.com/livhaas/sheldon.md/blob/master/content/img/bearing_types400-270.gif)
+![axel set](https://github.com/livhaas/sheldon.md/blob/master/content/img/axle-set.jpg)
+
 
 Cup-And-Cone Bearings
 ---
