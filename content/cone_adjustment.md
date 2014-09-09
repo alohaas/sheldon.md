@@ -1,6 +1,6 @@
 Cone Adjustment
 ===
-![axel set](/img/bearing_types400-270.gif)
+![axel set](https://github.com/livhaas/sheldon.md/blob/master/content/img/bearing_types400-270.gif)
 
 Cup-And-Cone Bearings
 ---
@@ -51,4 +51,4 @@ To loosen this type of hub, I usually do have to loosen the left locknut from it
 Special tool for rapid cone adjustment under load
 ---
 I have made a special tool for cone adjustment on QR hubs, consisting of a skewer and a spacer bushing to allow the handle end of the skewer to press against the end of the axle, leaving the locknuts unobstructed. This is very handy, and saves a good deal of time in the shop. Since it presses directly on the ends of the axle, you can make the actual adjustments while the axle is under compressive load from the quick release. This has not previously been possible.
-![cone tool](/img/cone_tool.gif)
+![cone tool](https://github.com/livhaas/sheldon.md/blob/master/content/img/cone_tool.gif)
