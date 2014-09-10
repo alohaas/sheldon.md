@@ -49,49 +49,48 @@ On newer derailers, the limit stop screws are labeled: "H" (high) and "L" (low).
 
 These are not particularly fussy adjustments. Don't be afraid to give half a turn or a turn at a time. The only place where there's any danger is the rear derailer's low gear stop, which can allow the derailer to go into the spokes if it is set very loose. The other limit stop screw of the rear derailer (and the two on the front derailer) will cause overshifting if set too loose, but this is relatively harmless and easily corrected.
 
-1. Low-gear limit stop
+###1. [Low-gear](http://sheldonbrown.com/gloss_l.html#low) limit stop
+The low gear limit stop (usually marked by the letter "L") stops the derailer from shifting past the largest sprocket and throwing the chain into the spokes. If it is too loose, the derailer can overshift into the spokes, with disastrous results. If it is too tight, it will be difficult or impossible to shift down to the largest rear sprocket.
 
-    The low gear limit stop (usually marked by the letter "L") stops the derailer from shifting past the largest sprocket and throwing the chain into the spokes. If it is too loose, the derailer can overshift into the spokes, with disastrous results. If it is too tight, it will be difficult or impossible to shift down to the largest rear sprocket.
-
-2. High-gear limit stop
-
-    The high gear limit stop (usually marked by the letter "H") stops the derailer from shifting past the smallest sprocket and wedging the chain between the smallest sprocket and the dropout. If it is too loose, it really doesn't make much difference on a bike with indexed shifting, because the cable will not let the derailer overshift past the smallest sprocket. If the screw is too tight, it will be difficult or impossible to shift up to the smallest rear sprocket.
+###2. [High-gear](http://sheldonbrown.com/gloss_ha-i.html#high) limit stop
+The high gear limit stop (usually marked by the letter "H") stops the derailer from shifting past the smallest sprocket and wedging the chain between the smallest sprocket and the dropout. If it is too loose, it really doesn't make much difference on a bike with indexed shifting, because the cable will not let the derailer overshift past the smallest sprocket. If the screw is too tight, it will be difficult or impossible to shift up to the smallest rear sprocket.
     
-    Difficulty in upshifting to the smallest rear sprocket is rarely caused by misadjustment of the high-gear limit screw. More often, it results from the derailer's being bent, or from excess friction in the cable.
+Difficulty in upshifting to the smallest rear sprocket is rarely caused by misadjustment of the high-gear limit screw. More often, it results from the derailer's being bent, or from excess friction in the [cable](https://github.com/livhaas/sheldon.md/blob/master/content/derailer_adjustment.md#cables).
 
-3. Indexing adjustment
+###3. [Indexing](http://sheldonbrown.com/gloss_i-k.html#index) adjustment
     
-    The indexing adjustment is the most frequently needed derailer adjustment. The detents (click-stops) that provide indexing are in the shifters, and the index adjustment sets the length of the cable so that the derailer is in the correct place to correspond with each click stop.
+The indexing adjustment is the most frequently needed derailer adjustment. The detents (click-stops) that provide indexing are in the shifters, and the index adjustment sets the length of the cable so that the derailer is in the correct place to correspond with each click stop.
 
-    If a derailer is correctly adjusted when it is installed, this is the only adjustment that should have to be tweaked later on, to accommodate cable stretch, or when cables are replaced.
+If a derailer is correctly adjusted when it is installed, this is the only adjustment that should have to be tweaked later on, to accommodate cable stretch, or when cables are replaced.
 
-    The indexing adjustment is an adjusting barrel located at one end of a length of cable housing. Many rear derailers have more than one index adjuster. All indexed derailers have an adjuster where the final loop of cable housing ends at the derailer itself. Many bicycles also have another adjusting barrel located so that it can be adjusted while you are riding. On mountain-bike-type shifters, this will be located at the shifter itself, just where the cable exits. On road bikes with handlebar-mounted shifters, there will usually be an adjusting barrel at the cable stop where the upper length of housing ends on the upper end of the down tube.
+The indexing adjustment is an [adjusting barrel](http://sheldonbrown.com/gloss_aa-l.html#adjustingbarrel) located at one end of a length of [cable housing](http://sheldonbrown.com/gloss_ho-z.html#housing). Many rear derailers have more than one index adjuster. All indexed derailers have an adjuster where the final loop of cable housing ends at the derailer itself. Many bicycles also have another adjusting barrel located so that it can be adjusted while you are riding. On mountain-bike-type shifters, this will be located at the shifter itself, just where the cable exits. On road bikes with handlebar-mounted shifters, there will usually be an adjusting barrel at the cable stop where the upper length of housing ends on the upper end of the [down tube](http://sheldonbrown.com/gloss_da-o.html#down).
 
-    It doesn't matter which of these adjustments you use: use whichever is more convenient.
+It doesn't matter which of these adjustments you use: use whichever is more convenient.
 
-    Before you try adjusting the indexing, shift to the highest gear (smallest sprocket.) Make sure that the shifter is in the position that allows the cable to be as loose as it can get. (Exception: Shimano	Rapid Rise derailers work the opposite way, so you are shifting to the largest sprocket).
+Before you try adjusting the indexing, shift to the highest gear (smallest sprocket.) Make sure that the shifter is in the position that allows the cable to be as loose as it can get. (Exception: Shimano	Rapid Rise derailers work the opposite way, so you are shifting to the largest sprocket).
 
-    Click the shifter to the first click after the fully loose position, then turn the pedals forward. The chain should shift to the second smallest sprocket. If it doesn't, it means the cable is too loose. Turn an adjusting barrel counter-clockwise to tighten the cable. Start with half a turn, then check again. It is very common for beginners to over-correct by turning the adjuster too far. Sometimes this will result in moving the indexing so far off that it sort-of works, except that the clicks are one notch off, so one of the extreme gears doesn't work properly, but the others appear to be OK. This is why it is important to check that the shift from the smallest to the second-smallest sprocket occurs in the right place on the shifter.
+Click the shifter to the first click after the fully loose position, then turn the pedals forward. The chain should shift to the second smallest sprocket. If it doesn't, it means the cable is too loose. Turn an adjusting barrel counter-clockwise to tighten the cable. Start with half a turn, then check again. It is very common for beginners to over-correct by turning the adjuster too far. Sometimes this will result in moving the indexing so far off that it sort-of works, except that the clicks are one notch off, so one of the extreme gears doesn't work properly, but the others appear to be OK. This is why it is important to check that the shift from the smallest to the second-smallest sprocket occurs in the right place on the shifter.
 
-    Fine adjustments are accomplished according to the following principles (opposite for Shimano Rapid rise derailers):
+Fine adjustments are accomplished according to the following principles (opposite for Shimano Rapid rise derailers):
     
-    -  Shifting to larger sprockets is accomplished by tightening the cable; if such shifts are slow, the cable is not tight enough-- turn the barrel counterclockwise to tighten it
-    - Shifting to smaller sprockets is accomplished by loosening the cable; if such shifts are too slow, the cable is not loose enough--turn the barrel clockwise to loosen it
+-  Shifting to larger sprockets is accomplished by tightening the cable; if such shifts are slow, the cable is not tight enough-- turn the barrel counterclockwise to tighten it
+- Shifting to smaller sprockets is accomplished by loosening the cable; if such shifts are too slow, the cable is not loose enough--turn the barrel clockwise to loosen it
     
-    If the rear indexing works properly when using the large chainwheel but not on the small chainwheel, or vice-versa, this is often a sign that the rear derailer hanger is bent.
+If the rear indexing works properly when using the large chainwheel but not on the small chainwheel, or vice-versa, this is often a sign that the rear derailer hanger is bent.
 
-4. Angle adjustment ("B-tension")
+###4. Angle adjustment ("B-tension")
 
-	Modern derailers have two spring-loaded pivots. The lower pivot, sometimes called the "a pivot" winds the cage up to take up slack as you go to smaller sprockets. The upper "b pivot" adds additional slack take-up ability by pushing the derailer's parallelogram backwards.
+Modern derailers have two spring-loaded pivots. The lower pivot, sometimes called the "a pivot" winds the [cage](http://sheldonbrown.com/gloss_ca-g.html#cage) up to take up slack as you go to smaller sprockets. The upper "b pivot" adds additional slack take-up ability by pushing the derailer's parallelogram backwards.
 
-	The tension of the two springs needs to be balanced for best shifting.
+The tension of the two springs needs to be balanced for best shifting.
 
-	Most derailers have an angle adjustment screw (Shimano calls it "B-tension adjustment"). This adjusts the tension of the upper ("b") spring of the parallelogram, and thus the height of the jockey pulley. The looser this screw is, the closer the jockey pulley will be to the cluster.
+Most derailers have an angle adjustment screw (Shimano calls it "B-tension adjustment"). This adjusts the tension of the upper ("b") spring of the parallelogram, and thus the height of the jockey pulley. The looser this screw is, the closer the [jockey pulley](http://sheldonbrown.com/gloss_i-k.html#jockeypulley) will be to the cluster.
 
-	The angle adjustment will need to be set according to the size of the largest rear sprocket. If you change to a cluster with a larger or smaller low-gear sprocket, you will need to re-adjust this setting. You will also need to adjust this if you change the length of your chain.
+The angle adjustment will need to be set according to the size of the largest rear sprocket. If you change to a cluster with a larger or smaller low-gear sprocket, you will need to re-adjust this setting. You will also need to adjust this if you change the length of your chain.
 
-	If the angle adjuster is set too loose, the jockey pulley will bump into the largest sprocket when the bicycle is in the lowest gear (large rear, small front). This is the gear you should check the adjustment in. A larger low-gear sprocket may require a different rear derailer, for enough angle adjustment to clear the sprocket. In extreme cases, such as with a Shimano 36-tooth sprocket, a longer angle-adjustment screw may be needed -- some people even install the screw backwards.
+If the angle adjuster is set too loose, the jockey pulley will bump into the largest sprocket when the bicycle is in the lowest gear (large rear, small front). This is the gear you should check the adjustment in. A larger low-gear sprocket may require a different rear derailer, for enough angle adjustment to clear the sprocket. In extreme cases, such as with a Shimano 36-tooth sprocket, a longer angle-adjustment screw may be needed -- some people even install the screw backwards.
 
-	Since a derailer shift is caused by forcing the chain to run at an angle, the greater the angle, the sooner it will shift. The closer the jockey pulley is to the cluster, the sharper the angle will be for a given amount of sideways motion of the derailer. Thus, the looser the angle adjuster screw is, the better the shifting will be.	 
-	**Campagnolo Rear Derailers**
-	2001 and later Campagnolo rear derailers don't use a "b tension" adjustment. Instead, they have an "a tension" adjustment. Spring balancing is done with this adjustment, but in the opposite direction. That is, loosening the "a tension" has the same effect as tightening the "b tension."
+Since a derailer shift is caused by forcing the chain to run at an angle, the greater the angle, the sooner it will shift. The closer the jockey pulley is to the cluster, the sharper the angle will be for a given amount of sideways motion of the derailer. Thus, the looser the angle adjuster screw is, the better the shifting will be.	 
+	
+####Campagnolo Rear Derailers
+2001 and later Campagnolo rear derailers don't use a "b tension" adjustment. Instead, they have an "a tension" adjustment. Spring balancing is done with this adjustment, but in the opposite direction. That is, loosening the "a tension" has the same effect as tightening the "b tension."
