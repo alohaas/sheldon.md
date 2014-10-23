@@ -4,7 +4,7 @@
 
 *Crank cotter with nut and washer*
 
-![Crank cotter with nut and washer](http://sheldonbrown.com/images/ck095.jpg "Crank Cotter")
+![Crank cotter with nut and washer](img/cotter1.jpg)
 
 Many older bicycles use wedge-shaped fasteners called "cotters" to hold the [cranks](http://sheldonbrown.com/glossary.html#crank) onto the [bottom bracket](http://sheldonbrown.com/gloss_bo-z.html#bottom) [axle](http://sheldonbrown.com/glossary.html#axle).
 
@@ -24,7 +24,7 @@ The more rigid the support, the better your luck is likely to be. One neat trick
 
 *Second cottered crank as anvil*
 
-![second cottered crank](http://sheldonbrown.com/images/cotter-anvilIMG_1782.JPG)
+![second cottered crank](img/cotteranvil.jpg)
 
 To be sure, a really rigid support can blemish the crank -- but these days, most cottered-crank replacements will be with new, lighter, more trouble-free cotterless cranks.
 
